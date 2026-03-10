@@ -1,8 +1,8 @@
 /* JavaScript Document
 
-Tooplate 2151 Winter Gallery
+Tooplate 2151 Poojitha Gallery
 
-https://www.tooplate.com/view/2151-winter-gallery
+https://www.tooplate.com/view/2151-Poojitha-gallery
 
 */
 
